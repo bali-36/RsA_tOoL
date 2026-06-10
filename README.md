@@ -19,8 +19,8 @@ This project implements RSA encryption and decryption using MASM (Microsoft Macr
 
 1. **Clone the repository:**
 ```plaintext
-  git clone https://github.com/d3vda5/COAL_Project.git
-  cd COAL_Project
+  git clone https://github.com/bali-36/RsA_tOoL.git
+  cd RsA_tOoL
 ```
 
 2. **Open the project in Visual Studio:**
